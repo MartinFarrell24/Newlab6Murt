@@ -24,7 +24,7 @@
 
 void testConstructors();
 
-// you need more comments for Pete's sake
+// you need more comments for Murt's sake
 // pete was here again
 // known bugs probably
 
